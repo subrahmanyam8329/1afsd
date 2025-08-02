@@ -1,0 +1,13 @@
+{
+  "name": "1.a",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "GOPI",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
